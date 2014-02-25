@@ -1,0 +1,11 @@
+#cover {
+	border-color: #003fff;
+	padding-top: 0;
+	padding-left: 0;
+}
+
+#profile {
+	width: 20%;
+	float: left;
+	margin-top: 25px;
+}
